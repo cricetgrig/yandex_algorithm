@@ -1,4 +1,4 @@
-# yandex_algorithm
+# Yandex algorithm
 Training on algorithms summer 2021
 
 | № | Link to the contest | Done  |
