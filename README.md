@@ -14,23 +14,16 @@ Training on algorithms summer 2021
 
 ## Lectures:
 
-### 1 	[Лекция «Сложность, тестирование, особые случаи».](https://youtu.be/QLhqYNsPIVo) 
+### [Лекция 1 «Сложность, тестирование, особые случаи».](https://youtu.be/QLhqYNsPIVo) 
+### [Лекция 2 «Линейный поиск».](https://youtu.be/SKwB41FrGgU)
+### [Лекция 3 «Множества».](https://youtu.be/PUpmV2ieIHA)
+### [Лекция 4 «Словари и сортировка подсчётом»](https://www.youtube.com/watch?v=Nb5mW1yWVSs)
+### [Лекция 5 «Префиксные суммы и два указателя»](https://youtu.be/de28y8Dcvkg)
+### [Лекция 6 «Бинарный поиск»](https://youtu.be/YENpZexHfuk)
+### [Лекция 7 «Сортировка событий»](https://www.youtube.com/watch?v=hGixDBO-p6Q)
+### [Лекция 8 «Деревья»](https://youtu.be/lEJzqHgyels)
 
-### 2 	[Лекция «Линейный поиск».](https://youtu.be/SKwB41FrGgU)
-
-### 3 	[Лекция «Множества».](https://youtu.be/PUpmV2ieIHA)
-### 4 	[Лекция «Словари и сортировка подсчётом»](https://www.youtube.com/watch?v=Nb5mW1yWVSs)
-
-### 5 	[Разбор домашнего задания (за 2 и 4 июня)](https://youtu.be/mdJdB7On4AM)
-### 6 	[Лекция «Префиксные суммы и два указателя»](https://youtu.be/de28y8Dcvkg)
-
-### 7 	[Лекция «Бинарный поиск»](https://youtu.be/YENpZexHfuk)
-
-### 8 	[Разбор домашнего задания (за 7 и 9 июня)](https://youtu.be/J2C6rDqe8mQ)
-
-### 9 	[Лекция «Сортировка событий»](https://www.youtube.com/watch?v=hGixDBO-p6Q)
-### 10 	[Лекция «Деревья»](https://youtu.be/lEJzqHgyels)
-
-### 11 	Разбор домашнего задания (за 15 и 16 июня)
-
-### 12 	Разбор домашнего задания (за 21 и 23 июня)
+### [Разбор домашнего задания 1 и 2](https://youtu.be/mdJdB7On4AM)
+### [Разбор домашнего задания 3 и 4](https://youtu.be/J2C6rDqe8mQ)
+### Разбор домашнего задания 5 и 6
+### Разбор домашнего задания 7 и 8
