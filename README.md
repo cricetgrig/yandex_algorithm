@@ -1,7 +1,7 @@
 # yandex_algorithm
 Training on algorithms summer 2021
 
-| № | Link to the contest | Done  |
+| HW № | Link to the contest | Done  |
 |---|---|---|
 |  1 | [2 June](https://contest.yandex.ru/contest/27393/enter/) | 5/10  |
 |  2 | [4 June](https://contest.yandex.ru/contest/27472/enter/) | 7/10  |
