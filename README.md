@@ -1,6 +1,8 @@
 # yandex_algorithm
 Training on algorithms summer 2021
 
+|Номер ДЗ  | Ссылка на контест | Состояние  |
+|---|---|---|
 |  1 | [ДЗ_1](https://contest.yandex.ru/contest/27393/enter/) | 5/10  |
 |  2 | [ДЗ_2](https://contest.yandex.ru/contest/27472/enter/) | 7/10  |
 |  3 | [ДЗ_3](https://contest.yandex.ru/contest/27663/enter/) | 10/10  |
